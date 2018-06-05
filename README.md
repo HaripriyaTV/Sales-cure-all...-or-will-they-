@@ -12,7 +12,7 @@ The aim is to build a predictive model to find out the sales of each product at 
 
 ## Data Source
 The dataset is from the Big Mart Sales Practice Problem of Analytics Vidhya. The link to the dataset is, https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/. Further details about the data can be found 
-[here](Sales-cure-all...-or-will-they-/blob/master/Introduction/README.md).
+[here](Introduction/README.md).
 
 ## Contents
 The problem was handled in a structured way.The following is the table of content that was followed.
