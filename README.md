@@ -11,27 +11,31 @@ The data scientists at BigMart have collected sales data for 1559 products acros
 The aim is to build a predictive model to find out the sales of each product at a particular store so that it would help the decision makers at BigMart to find out the properties of any product or store, which play a key role in increasing the overall sales.
 
 ## Data Source
-The dataset is from the Big Mart Sales Practice Problem of Analytics Vidhya. The link to the dataset is here, https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/. Further details about the data is in the README file of the
+The dataset is from the Big Mart Sales Practice Problem of Analytics Vidhya. The link to the dataset is, https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/. Further details about the data can be found 
+[here](Sales-cure-all...-or-will-they-/blob/master/Introduction/README.md).
 
 ## Contents
-The problem is handled in a structured way.The following is the table of content that is followed and their respective links.
-1. **Introduction**
+The problem was handled in a structured way.The following is the table of content that was followed.
+1. [**Introduction**](Sales-cure-all...-or-will-they-/blob/master/Introduction)
    - About data
    - Loading packages and data in R
    - Understanding the data
-2. **Exploratory Data Analysis**
+2. [**Exploratory Data Analysis (EDA)**](Sales-cure-all...-or-will-they-/blob/master/EDA)
    - Univariate Analysis
    - Bivariate Analysis
    - Initial insights from the analyses
-3. **Data Preparation**
+3. [**Data Preparation**](Sales-cure-all...-or-will-they-/blob/master/DataPreparation)
    - Missing Value Treatment
    - Feature Engineering
    - Encoding Categorical Variables
    - PreProcessing data
-4. **Modelling**
+4. [**Modelling**](Sales-cure-all...-or-will-they-/blob/master/Modelling)
    - Building the following models,
      * Linear Regression
      * Regularized Linear Regression
      * Random Forest
      * Extreme Gradient Boosting
-5. **Summary**
+5. [**Summary**](Sales-cure-all...-or-will-they-/blob/master/Summary)
+   - Final insights from the prediction
+   
+All the above gave me a leaderboard score of 1156.228 and #624 by Analytics Vidhya.
