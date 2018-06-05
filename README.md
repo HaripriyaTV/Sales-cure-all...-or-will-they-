@@ -24,7 +24,7 @@ The problem was handled in a structured way.The following is the table of conten
    - Univariate Analysis
    - Bivariate Analysis
    - Initial insights from the analyses
-3. [**Data Preparation**](Data Preparation)
+3. [**Data Preparation**](DataPreparation)
    - Missing Value Treatment
    - Feature Engineering
    - Encoding Categorical Variables
