@@ -16,26 +16,26 @@ The dataset is from the Big Mart Sales Practice Problem of Analytics Vidhya. The
 
 ## Contents
 The problem was handled in a structured way.The following is the table of content that was followed.
-1. [**Introduction**](Sales-cure-all...-or-will-they-/blob/master/Introduction)
+1. [**Introduction**](Introduction)
    - About data
    - Loading packages and data in R
    - Understanding the data
-2. [**Exploratory Data Analysis (EDA)**](Sales-cure-all...-or-will-they-/blob/master/EDA)
+2. [**Exploratory Data Analysis (EDA)**](EDA)
    - Univariate Analysis
    - Bivariate Analysis
    - Initial insights from the analyses
-3. [**Data Preparation**](Sales-cure-all...-or-will-they-/blob/master/DataPreparation)
+3. [**Data Preparation**](DataPreparation)
    - Missing Value Treatment
    - Feature Engineering
    - Encoding Categorical Variables
    - PreProcessing data
-4. [**Modelling**](Sales-cure-all...-or-will-they-/blob/master/Modelling)
+4. [**Modelling**](Modelling)
    - Building the following models,
      * Linear Regression
      * Regularized Linear Regression
      * Random Forest
      * Extreme Gradient Boosting
-5. [**Summary**](Sales-cure-all...-or-will-they-/blob/master/Summary)
+5. [**Summary**](Summary)
    - Final insights from the prediction
    
 All the above gave me a leaderboard score of 1156.228 and #624 by Analytics Vidhya.
